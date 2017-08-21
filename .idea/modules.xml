@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Lovelife.iml" filepath="$PROJECT_DIR$/Lovelife.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lionlib/lionlib.iml" filepath="$PROJECT_DIR$/lionlib/lionlib.iml" />
     </modules>
   </component>
 </project>
